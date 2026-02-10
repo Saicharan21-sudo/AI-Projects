@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Budget Tracker
 
 A modern, feature-rich budget tracking web application built with React.
@@ -180,3 +181,6 @@ This is a personal project, but suggestions and feedback are welcome!
 **Built with ❤️ using React and Vite**
 
 For support or questions, please open an issue in the project repository.
+=======
+# AI-Projects
+>>>>>>> c3d0139bf715c30f4b84e99438e565eac601003d
