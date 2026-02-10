@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Budget Tracker
 
 A modern, feature-rich budget tracking web application built with React.
